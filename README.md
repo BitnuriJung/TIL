@@ -16,6 +16,7 @@
 
 ### 클린 아키텍쳐
 `Clean Architecture by Robert Martin`
+- [5장 객체 지향 프로그래밍](https://github.com/BitnuriJung/TIL/blob/8e436f5c97f18b1890afa97218197b4f535907ce/Clean%20Architecture/05.%20OOP.md)
 
 <br/>
 
