@@ -15,11 +15,19 @@
 
 ## 목차
 
-### 클린 아키텍쳐
-`Clean Architecture by Robert Martin`
-- [5장 객체 지향 프로그래밍](https://github.com/BitnuriJung/TIL/blob/8e436f5c97f18b1890afa97218197b4f535907ce/Clean%20Architecture/05.%20OOP.md)
+### 헤드 퍼스트 디자인 패턴 (개정판) 
+`Head First Design Patterns`
+- [전략 패턴](https://github.com/BitnuriJung/TIL/blob/af755ce6cb0eccac8535cc41ed41466c8c0bdd87/Design%20Pattern/01.%20Strategy%20Pattern.md)
+- [옵저버 패턴](https://github.com/BitnuriJung/TIL/blob/af755ce6cb0eccac8535cc41ed41466c8c0bdd87/Design%20Pattern/02.%20Observer%20Pattern.md)
+- [데코레이터 패턴](https://github.com/BitnuriJung/TIL/blob/af755ce6cb0eccac8535cc41ed41466c8c0bdd87/Design%20Pattern/03.%20Decorator%20Pattern.md)
+- [팩토리 패턴](https://github.com/BitnuriJung/TIL/blob/af755ce6cb0eccac8535cc41ed41466c8c0bdd87/Design%20Pattern/04.%20Factory%20Pattern.md)
+- [싱글턴 패턴](https://github.com/BitnuriJung/TIL/blob/af755ce6cb0eccac8535cc41ed41466c8c0bdd87/Design%20Pattern/05.%20Singleton%20Pattern.md)
+- [커맨드 패턴 1/2](https://github.com/BitnuriJung/TIL/blob/af755ce6cb0eccac8535cc41ed41466c8c0bdd87/Design%20Pattern/06.%20Command%20Pattern%201.md)
+- [커맨드 패턴 2/2](https://github.com/BitnuriJung/TIL/blob/af755ce6cb0eccac8535cc41ed41466c8c0bdd87/Design%20Pattern/06.%20Command%20Pattern%202.md)
+
 
 <br/>
 
-### 헤드 퍼스트 디자인 패턴 (개정판) 
-`Head First Design Patterns`
+### 클린 아키텍쳐
+`Clean Architecture by Robert Martin`
+- [5장 객체 지향 프로그래밍](https://github.com/BitnuriJung/TIL/blob/8e436f5c97f18b1890afa97218197b4f535907ce/Clean%20Architecture/05.%20OOP.md)
