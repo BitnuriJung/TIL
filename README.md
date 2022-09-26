@@ -31,3 +31,4 @@
 ### 클린 아키텍쳐
 `Clean Architecture by Robert Martin`
 - [5장 객체 지향 프로그래밍](https://github.com/BitnuriJung/TIL/blob/8e436f5c97f18b1890afa97218197b4f535907ce/Clean%20Architecture/05.%20OOP.md)
+- [25-27장 계층과 경계, 메인 아키텍쳐, ‘크고 작은 모든’ 서비스들 ](https://github.com/BitnuriJung/TIL/blob/2eb846f17de53c5db8ea2b0eec810cd2dd828a30/Clean%20Architecture/25.%20Layers%20and%20Boundaries%20-%2027.%20Services;Great%20and%20Small.md)
