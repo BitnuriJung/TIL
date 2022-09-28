@@ -35,3 +35,9 @@
 - [10장 ISP : 인터페이스 분리 원칙](https://github.com/BitnuriJung/TIL/blob/dcfd3b12a236c1a1fc1ebf4117ce7f68e94ef9f0/Clean%20Architecture/10.%20ISP.md)
 - [11장 DIP : 의존성 역전 원칙](https://github.com/BitnuriJung/TIL/blob/dcfd3b12a236c1a1fc1ebf4117ce7f68e94ef9f0/Clean%20Architecture/11.%20DIP.md)
 - [25-27장 계층과 경계, 메인 아키텍쳐, ‘크고 작은 모든’ 서비스들 ](https://github.com/BitnuriJung/TIL/blob/2eb846f17de53c5db8ea2b0eec810cd2dd828a30/Clean%20Architecture/25.%20Layers%20and%20Boundaries%20-%2027.%20Services;Great%20and%20Small.md)
+
+
+<br/>
+
+### CS 지식
+- [프로세스와 스레드](https://github.com/BitnuriJung/TIL/blob/4e34d52074c10a98bf3f2dcfad93cb5236af82d6/CS%20Knowledge/Process%20and%20Thread.md)
