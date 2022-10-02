@@ -24,6 +24,7 @@
 - [싱글턴 패턴](https://github.com/BitnuriJung/TIL/blob/af755ce6cb0eccac8535cc41ed41466c8c0bdd87/Design%20Pattern/05.%20Singleton%20Pattern.md)
 - [커맨드 패턴 1/2](https://github.com/BitnuriJung/TIL/blob/af755ce6cb0eccac8535cc41ed41466c8c0bdd87/Design%20Pattern/06.%20Command%20Pattern%201.md)
 - [커맨드 패턴 2/2](https://github.com/BitnuriJung/TIL/blob/af755ce6cb0eccac8535cc41ed41466c8c0bdd87/Design%20Pattern/06.%20Command%20Pattern%202.md)
+- [반복자 패턴](https://github.com/BitnuriJung/TIL/blob/99802c6296445f9ce89231a5622c7d027e379c95/Design%20Pattern/09.%20Iterator%20Pattern%20and%20Composite%20Pattern.md)
 
 
 <br/>
