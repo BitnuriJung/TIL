@@ -52,6 +52,13 @@
 
 <br/>
 
+- 이미지 추가 
+    ```
+    ![](/images/iterator_1.jpg)
+    []안에 정확히 뭐가 들어가야 하는지는 모르겠다. 
+    ()안에 경로를 써주면 된다. 
+    ```
+
 [참고링크][link]
 
 [link]: https://gist.github.com/ihoneymon/652be052a0727ad59601
