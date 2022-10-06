@@ -43,4 +43,4 @@
 ### CS 지식
 - [프로세스와 스레드](https://github.com/BitnuriJung/TIL/blob/4e34d52074c10a98bf3f2dcfad93cb5236af82d6/CS%20Knowledge/Process%20and%20Thread.md)
 - [TCP/IP](https://github.com/BitnuriJung/TIL/blob/84940c06323cae9396216b674daf55c062f1ebf3/CS%20Knowledge/TCP&IP.md)
-- [자료구조]()
+- [자료구조](https://github.com/BitnuriJung/TIL/blob/5f5bdb02a0966267d2eb771133d1f36fcab168ff/CS%20Knowledge/Data%20Structure.md)
